@@ -121,12 +121,12 @@ header .btn {
   background-position: center;
 }
 .section-1 .screen:nth-child(2) {
-  background: url(../assets/loki-kid-hd.jpeg);
+  background: url("../assets/loki-kid-hd.jpeg");
   background-repeat: no-repeat;
   background-position: center;
 }
 .section-1 .screen:nth-child(3) {
-  background: url(../assets/loki-origin.jpg);
+  background: url("../assets/loki-origin.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
