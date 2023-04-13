@@ -116,17 +116,17 @@ header .btn {
 }
 
 .section-1 .screen:nth-child(1) {
-  background-image: url("assets/loki-comics.jpg");
+  background-image: url("../assets/loki-comics.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
 .section-1 .screen:nth-child(2) {
-  background-image: url("assets/loki-kid-hd.jpeg");
+  background-image: url("../assets/loki-kid-hd.jpeg");
   background-repeat: no-repeat;
   background-position: center;
 }
 .section-1 .screen:nth-child(3) {
-  background-image: url("assets/loki-origin.jpg");
+  background-image: url("../assets/loki-origin.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
