@@ -56,19 +56,19 @@
       font-size: 0px;
     }
     .section-1 .screen:nth-child(1) {
-      background: url("../assets/loki-comics.jpg");
+      background-image: url("assets/loki-comics.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: 350%;
     }
     .section-1 .screen:nth-child(2) {
-      background: url("../assets/loki-kid-hd.jpeg");
+      background-image: url("assets/loki-kid-hd.jpeg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: 350%;
     }
     .section-1 .screen:nth-child(3) {
-      background: url("../assets/loki-origin.jpg");
+      background-image: url("assets/loki-origin.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: 350%;
